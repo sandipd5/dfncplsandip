@@ -1,0 +1,9 @@
+{
+	"name": "dfncplsandip",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b88d8a9a-540e-42ae-9343-cba9e467d7ce",
+		"tenantId": "19091c3b-25b2-4243-9504-b4b9900e73e0"
+	}
+}
